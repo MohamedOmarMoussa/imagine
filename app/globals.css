@@ -92,7 +92,7 @@
   /* ===== UTILITIES */
   .wrapper {
     @apply max-w-5xl mx-auto px-5 md:px-10 w-full text-dark-400 p-16-regular;
-  }
+  } 
 
   .gradient-text {
     @apply bg-purple-gradient bg-cover bg-clip-text text-transparent;
