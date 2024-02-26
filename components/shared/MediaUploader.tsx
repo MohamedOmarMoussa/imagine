@@ -1,4 +1,4 @@
-
+"use client";
 
 import { useToast } from "@/components/ui/use-toast"
 import { dataUrl, getImageSize } from "@/lib/utils";
